@@ -1,0 +1,19 @@
+{
+  "name": "regex-recursion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohammadalsmadi2000/Regex-Recursion.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohammadalsmadi2000/Regex-Recursion/issues"
+  },
+  "homepage": "https://github.com/mohammadalsmadi2000/Regex-Recursion#readme"
+}
